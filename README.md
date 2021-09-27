@@ -2,7 +2,6 @@
 
 - 🎓 Analise e desenvolvimento em sistemas
 - 🎓 Pós em desenvolvimento de sistemas computacionais
-- 🌱 Atualmente estou aprendendo Node.Js,JavaScript
 - ❤️ Apaixonada por tecnologia
 
 
