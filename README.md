@@ -29,7 +29,7 @@
    <code><img height= "30"src= "https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
    <code><img height= "30"src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code> 
   
-   ![snake gif](https://github.com/carvalhoanamaria/carvalhoanamaria/blob/output/github-contribution-grid-snake.gif)
+ 
  <div>
   
  ##
