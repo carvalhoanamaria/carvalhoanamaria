@@ -25,7 +25,6 @@
    <code><img height= "30"src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></code>
    <code><img height= "30"src= "https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white"></code>
    <code><img height= "30"src= "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></code>
-   <code><img height= "30"src= "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"></code>
    <code><img height= "30"src= "https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"></code>
    <code><img height= "30"src= "https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white"></code>
    <code><img height= "30"src= "https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></code>
