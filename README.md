@@ -6,6 +6,7 @@
 
 - 🎓 Analise e desenvolvimento em sistemas
 - 🎓 Pós em desenvolvimento de sistemas computacionais
+- 🎓 MBA - Engenharia de Software
 - ❤️ Apaixonada por tecnologia
 
 
