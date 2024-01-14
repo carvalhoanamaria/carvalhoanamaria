@@ -10,13 +10,7 @@
 - ❤️ Apaixonada por tecnologia
 
 
- <div>
-  <a href="https://github.com/carvalhoanamaria">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=carvalhoanamaria&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carvalhoanamaria&layout=compact&langs_count=7&theme=github_dark&include_all_commits=true&count_private=true"/>
-  </div>
-  
-  ##
+ 
   
   ### 🔧 Tegnologias/Ferramentas  
  <div style="display: inline_block"><br>
